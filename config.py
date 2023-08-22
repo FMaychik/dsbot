@@ -1,15 +1,15 @@
 class set:
-    btoken = 'MTEzMDAyNDUzMTQ3MDMxOTYzNg.GEn5Yu.ss1YRFXnhMAITvnf9XCJjDXuOlsM2ICpM6SyBQ'
-    cid = '1107286346093043743'
-    prefix = '/'
+    btoken = 'YOUR_TOKEN'
+    cid = ''
+    prefix = 'YOUR_PREFIX'
 
-postid = 1143141304499458200
+postid = 0000000
 
 roles = {
-    '📕': 1139874917228220436, #Rules
-    '📽': 1139874992461467668, #videos
-    '📢': 1141346037106216971 #News
+    '📕': 000000, #Rules
+    '📽': 0000000, #videos
+    '📢': 000000 #News
 }
 
-maxroles = 5
+maxroles = 0
 EXCROLES = ()
